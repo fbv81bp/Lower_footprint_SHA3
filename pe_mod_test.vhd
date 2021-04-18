@@ -1,3 +1,5 @@
+-- comparing the old and new pieces of code snippets for the same functionality
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
